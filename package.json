@@ -1,0 +1,13 @@
+{
+  "name": "invitationals",
+  "version": "1.0.0",
+  "description": "Registration app for the invitationals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-fe": "cd frontend && yarn run dev",
+    "start-be": "cd backend && yarn run dev"
+  },
+  "author": "Eric Flores",
+  "license": "ISC"
+}
